@@ -22,3 +22,9 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('api/', views.async_view)
 ]
+
+
+
+
+
+"""https://www.linkedin.com/in/rafhael-augusto/"""
